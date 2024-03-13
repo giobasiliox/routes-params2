@@ -9,9 +9,9 @@ export default function Routes() {
   return (
     <NavigationContainer>
       {/* <StackRoutes /> */}
-      {/* <TabRoutes /> */}
+       <TabRoutes /> 
 
-      <DrawerRoutes />
+      {/* <DrawerRoutes /> */}
 
       <StatusBar style="auto" />
     </NavigationContainer>
